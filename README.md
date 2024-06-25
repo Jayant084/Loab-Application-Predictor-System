@@ -1,4 +1,4 @@
-# Loab-Application-Predictor-System
+# Loan-Application-Predictor-System
 Loan Application Predictor
 
 • Performed an in-depth Exploratory Data Analysis on Loan data to understand customer behavior and found the most effective features across 13 features such as Credit History, Balance income, etc
